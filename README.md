@@ -1,2 +1,2 @@
 # Katas_Diego
-Katas resueltas
+Katas resueltas de Python
